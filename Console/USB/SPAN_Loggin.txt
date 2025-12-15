@@ -1,0 +1,11 @@
+RXSTATUSB onchanged
+RAWEPHEMB onchanged
+GLORAWEPHEMB onchanged
+BESTPOSB ontime 1
+RANGEB ontime 1
+RXCONFIGA once
+VERSIONA once
+RAWIMUSXB onnew
+INSUPDATESTATUSB onnew
+INSPVAXB ontime 1
+INSCONFIGA once
